@@ -1,0 +1,92 @@
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: black;
+    }
+
+section {
+    margin-top: -3%;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: #181411;
+    }
+
+p {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    color: #eadec3;
+    }
+
+section.banner {
+    background-repeat:no-repeat;
+    width: 600px;
+    height: 688px;
+    background-image: url("image-world-of-warcraft-battle-for-azeroth-thumb-new-in-game-toys (1).jpg");
+    }
+
+a{
+    color: #c39004;
+
+    }
+
+.negrito{
+    font-weight: bold;
+}
+
+div.tabela{
+     display: inline-flex;
+    }
+
+.imagem{
+    width: 230px;
+    height: 250px;
+    margin-left: 8%;
+    margin-right: 8%;
+    }
+
+.aviso{
+    font-size: smaller;
+    text-align: center;
+    color: #48392b;
+}
+
+section.rodape {
+    background-repeat:no-repeat;
+    width: 600px;
+    height: 85px;
+    background-image: url("footer-divider-battle-for-azeroth.jpg");
+    }
+
+footer{
+    margin-top: -3%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: -2%;
+    background-color: #0f151b;
+    }
+
+.logo{
+    width: 160px;
+    height: 86px;
+    margin-left: 37%;
+    margin-right: 30%;
+    }
+
+p.menu{
+    text-align: center;
+    font-size: small;
+    color: #ffffff;
+    }
+
+p.texto_footer{
+    font-size: smaller;
+    color: #46555b;
+    }
+
+.classificacao{
+        width: 160px;
+        height: 91px;
+        margin-left: 37%;
+        margin-right: 30%;
+     }
